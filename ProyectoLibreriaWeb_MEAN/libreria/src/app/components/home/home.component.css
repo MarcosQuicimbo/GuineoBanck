@@ -1,0 +1,74 @@
+body{
+    background-image: url("../../../assets/img/moneda.avif");
+    background-position: 20px 30px;
+    background-size: 300px;
+    
+}
+.cuenta-box{
+    border: 2px solid rgb(109, 109, 109);
+    border-bottom: 5px solid rgb(109, 109, 109);
+    border-radius: 10px;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    padding:10px;
+    transition: all 100ms;
+    background-color: gold;
+}
+a{
+    text-decoration: none;
+    color:rgb(27, 27, 27);
+}
+a b{
+    color:rgb(57, 57, 57);
+}
+a h3{
+    color:rgb(120, 120, 120);
+}
+.cuenta-box:active{
+    border: 2px solid rgb(109, 109, 109);
+}
+/* .botones{
+    margin-top: 20px;
+    margin-left: 20px;
+} */
+.boton{
+    box-sizing: content-box    ;
+    width: 5px;
+    border: 1px solid blue;
+    border-bottom: 4px solid blue;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(25, 119, 202);
+    color: white;
+}
+
+
+
+
+.col-md-4 {
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+  
+  .menu {
+    background-color: #4dacc9;
+    padding: 2px;
+    border: 1px solid #4dacc9;
+    margin-bottom: 2px;
+    border-radius: 15px;
+  }
+  
+  .menu button.navbar-toggler {
+    background-color: transparent;
+    border: none;
+    color: #6c5ce7;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    /* margin-bottom: 10px; */
+  }
+  
+  
